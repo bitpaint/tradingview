@@ -453,7 +453,7 @@ function loadPairs() {
       }
     } else {
       //if there are nothing in the localstorage, use some default value
-      chartPairs.push("COINBASE:ETHBTCH");
+      chartPairs.push("COINBASE:ETHBTC");
       chartPairs.push("COINBASE:ETHBTC");
       chartPairs.push("COINBASE:ETHBTC");
       chartPairs.push("BITMEX:ETHUSD");
