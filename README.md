@@ -3,7 +3,7 @@
 
 ## How to use
 
-[CHECK IT OUT](https://sgmheyhey.github.io/tradingview-mc)
+[CHECK IT OUT](https://twente-mining.github.io/tradingview-mc/)
 
 ```
 $ chrome index.html
