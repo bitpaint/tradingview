@@ -453,12 +453,12 @@ function loadPairs() {
       }
     } else {
       //if there are nothing in the localstorage, use some default value
-      chartPairs.push("COINBASE:ETHBTC");
-      chartPairs.push("COINBASE:ETHBTC");
-      chartPairs.push("COINBASE:ETHBTC");
-      chartPairs.push("BITMEX:ETHUSD");
-      chartPairs.push("BITMEX:ETHUSD");
-      chartPairs.push("BITMEX:ETHUSD");
+      chartPairs.push("=COINBASE:BTCUSD*2.1");
+      chartPairs.push("COINBASE:BTCUSD");
+      chartPairs.push("COINBASE:BTCUSD");
+      chartPairs.push("BITMEX:BTCUSD");
+      chartPairs.push("BITMEX:BTCUSD");
+      chartPairs.push("BITMEX:BTCUSD");
     }
   }
   let chartPUrl = location.origin + "tradingview-mc/?";
